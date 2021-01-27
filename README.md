@@ -68,5 +68,5 @@ The project are in it´s initial states, but we already have a interesting list o
 
 ### Who do I talk to? ###
 
-* Insane RT Programmers - William D. Wolff - KnightMareWolff
-* wolff@insaneframework.com.br or wolff@wdw.com.br
+* William D. Wolff - KnightMareWolff
+* imaster@insaneframework.com.br 
