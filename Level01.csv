@@ -1,0 +1,101 @@
+,WAM_BlockDescription,WAM_BlockPosX,WAM_BlockPosY,WAM_BlockType
+1,Block,0,0,0
+2,Block,0,9,0
+3,Block,9,0,0
+4,Block,9,9,0
+5,Block,0,1,0
+6,Block,0,2,0
+7,Block,0,3,0
+8,Block,0,4,0
+9,Block,0,5,0
+10,Block,0,6,0
+11,Block,0,7,0
+12,Block,0,8,0
+13,Block,1,0,0
+14,Block,2,0,0
+15,Block,3,0,0
+16,Block,4,0,0
+17,Block,5,0,0
+18,Block,6,0,0
+19,Block,7,0,0
+20,Block,8,0,0
+21,Block,9,1,0
+22,Block,9,2,0
+23,Block,9,3,0
+24,Block,9,4,0
+25,Block,9,5,0
+26,Block,9,6,0
+27,Block,9,7,0
+28,Block,9,8,0
+29,Block,1,9,0
+30,Block,2,9,0
+31,Block,3,9,0
+32,Block,4,9,0
+33,Block,5,9,0
+34,Block,6,9,0
+35,Block,7,9,0
+36,Block,8,9,0
+37,SpawnPoint01,1,1,3
+38,Empty Block,1,2,1
+39,Empty Block,1,3,1
+40,Empty Block,1,4,1
+41,Empty Block,1,5,8
+42,Static Block,1,6,0
+43,Empty Block,1,7,1
+44,SpawnPoint02,1,8,4
+45,Empty Block,2,1,1
+46,Empty Block,2,2,1
+47,Empty Block,2,3,1
+48,Static Block,2,4,0
+49,Empty Block,2,5,1
+50,Static Block,2,6,0
+51,Empty Block,2,7,1
+52,Empty Block,2,8,1
+53,Empty Block,3,1,1
+54,Empty Block,3,2,1
+55,Empty Block,3,3,1
+56,Static Block,3,4,0
+57,Empty Block,3,5,1
+58,Empty Block,3,6,2
+59,Empty Block,3,7,1
+60,Empty Block,3,8,1
+61,Static Block,4,1,0
+62,Empty Block,4,2,2
+63,Static Block,4,3,0
+64,Static Block,4,4,0
+65,Static Block,4,5,0
+66,Static Block,4,6,0
+67,Empty Block,4,7,1
+68,Static Block,4,8,0
+69,Static Block,5,1,0
+70,Empty Block,5,2,1
+71,Static Block,5,3,0
+72,Static Block,5,4,0
+73,Static Block,5,5,0
+74,Static Block,5,6,0
+75,Empty Block,5,7,1
+76,Static Block,5,8,0
+77,Empty Block,6,1,1
+78,Empty Block,6,2,1
+79,Empty Block,6,3,1
+80,Static Block,6,4,0
+81,Empty Block,6,5,1
+82,Empty Block,6,6,1
+83,Empty Block,6,7,1
+84,Empty Block,6,8,1
+85,Empty Block,7,1,1
+86,Static Block,7,2,0
+87,Empty Block,7,3,1
+88,Static Block,7,4,0
+89,Empty Block,7,5,1
+90,Empty Block,7,6,1
+91,Static Block,7,7,0
+92,Empty Block,7,8,1
+93,Empty Block,8,1,8
+94,Empty Block,8,2,1
+95,Empty Block,8,3,1
+96,Empty Block,8,4,2
+97,Empty Block,8,5,1
+98,Empty Block,8,6,1
+99,Static Block,8,7,1
+100,Empty Block,8,8,7
